@@ -1,0 +1,9 @@
+Jour 3 :
+
+O1 : multiplier fonction O1 par son poids w^{LC}(r)
+O2 : à Faire
+
+Jour 4:
+
+O2 : Problème d'infesabilité
+O5 : Correction résultat
